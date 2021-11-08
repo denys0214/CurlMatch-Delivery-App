@@ -13,7 +13,7 @@ const signup = () => {
   return (
     <View
       style={
-        {
+        {     
           //flex: 1,
           //backgroundColor: 'white',
           //   height: '100%',
