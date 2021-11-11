@@ -6,7 +6,7 @@ import {
   View,
   TouchableOpacity,
   Image,
-} from 'react-native';
+} from 'react-native';      
 import DropDownPicker from 'react-native-dropdown-picker';
 
 import styles from './style';
